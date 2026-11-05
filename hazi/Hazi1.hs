@@ -1,0 +1,1 @@
+--union [circle 6 `fill` black, circle 5, polygon [(2,7), (1,7), (-5,-5), (-4,-5)] `fill` black, polygon[(2,7), (1,7), (1,-2), (2,-2)] `fill` black, polygon[(-3,-2), (-3,-3), (2,-3), (2,-2)] `fill` black, polygon [(2.3,-2.3), (0.9,-3.4), (0.9,-1)] `fill` black `stroke` white `strokeWidth` 0.2]
