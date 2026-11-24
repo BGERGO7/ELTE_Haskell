@@ -2,6 +2,8 @@ module Lab11 where
 
 -- http://lambda.inf.elte.hu/HigherOrderFunctions.xml
 
+-- ropzhban: MAGASABB RENDU FUGGVENY JELENTESE!
+
 myMap :: (a -> b) -> [a] -> [b]
 myMap _ [] = []
 myMap f (x:xs) = f x : myMap f xs
